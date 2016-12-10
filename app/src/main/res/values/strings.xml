@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DB_Lab1_Part2</string>
+
+    <string name="hint_name">Name</string>
+    <string name="hint_address">Address</string>
+    <string name="btnAdd">Add Employee</string>
+</resources>
